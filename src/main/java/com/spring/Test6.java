@@ -15,7 +15,8 @@ public class Test6 {
  //       person.callPet();
      //   Person person2 = context.getBean("personBean", Person.class);
     ///    person2.callPet();
-     //   System.out.println(person==person2);
+     //   System.o
+        //   ut.println(person==person2);
 
         context.close();
     }
